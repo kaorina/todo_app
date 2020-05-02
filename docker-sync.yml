@@ -1,0 +1,6 @@
+version: 2
+syncs:
+  todo_syncs:
+    src: './' 
+    sync_strategy: 'unison'
+    sync_excludes: ['.git','coverage', 'log', 'tmp']

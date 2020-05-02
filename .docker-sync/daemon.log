@@ -1,0 +1,1557 @@
+          ok  Starting unison for sync todo_syncs
+          ok  todo_syncs container still running, restarting unison in container
+          ok  Synced /Users/kaorina/rails_projects/todo_app/
+     success  Unison server started
+          ok  Synced /Users/kaorina/rails_projects/todo_app/
+Unison 2.51.2 (ocaml 4.08.1): Contacting server...
+Connected [//0500d9a6f383//app_sync -> //KaorinoBookpuro//Users/kaorina/rails_projects/todo_app]
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+UNISON 2.51.2 (OCAML 4.08.1) started propagating changes at 21:10:37.87 on 01 May 2020
+[BGN] Updating file .docker-sync/daemon.log from /Users/kaorina/rails_projects/todo_app to //0500d9a6f383//app_sync
+Failed: The source file /Users/kaorina/rails_projects/todo_app/.docker-sync/daemon.log
+has been modified during synchronization.  Transfer aborted.
+UNISON 2.51.2 (OCAML 4.08.1) finished propagating changes at 21:10:37.88 on 01 May 2020
+Saving synchronizer state
+Synchronization incomplete at 21:10:37  (0 items transferred, 0 skipped, 1 failed)
+  failed: .docker-sync/daemon.log
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+UNISON 2.51.2 (OCAML 4.08.1) started propagating changes at 21:10:39.94 on 01 May 2020
+[BGN] Updating file .docker-sync/daemon.log from /Users/kaorina/rails_projects/todo_app to //0500d9a6f383//app_sync
+Failed: The source file /Users/kaorina/rails_projects/todo_app/.docker-sync/daemon.log
+has been modified during synchronization.  Transfer aborted.
+UNISON 2.51.2 (OCAML 4.08.1) finished propagating changes at 21:10:39.95 on 01 May 2020
+Saving synchronizer state
+Synchronization incomplete at 21:10:39  (0 items transferred, 0 skipped, 1 failed)
+  failed: .docker-sync/daemon.log
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Nothing to do: replicas have not changed since last sync.
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+UNISON 2.51.2 (OCAML 4.08.1) started propagating changes at 21:10:44.95 on 01 May 2020
+[BGN] Updating file .docker-sync/daemon.log from /Users/kaorina/rails_projects/todo_app to //0500d9a6f383//app_sync
+Failed: The source file /Users/kaorina/rails_projects/todo_app/.docker-sync/daemon.log
+has been modified during synchronization.  Transfer aborted.
+UNISON 2.51.2 (OCAML 4.08.1) finished propagating changes at 21:10:44.96 on 01 May 2020
+Saving synchronizer state
+Synchronization incomplete at 21:10:45  (0 items transferred, 0 skipped, 1 failed)
+  failed: .docker-sync/daemon.log
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Nothing to do: replicas have not changed since last sync.
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+UNISON 2.51.2 (OCAML 4.08.1) started propagating changes at 21:10:54.95 on 01 May 2020
+[BGN] Updating file .docker-sync/daemon.log from /Users/kaorina/rails_projects/todo_app to //0500d9a6f383//app_sync
+Failed: The source file /Users/kaorina/rails_projects/todo_app/.docker-sync/daemon.log
+has been modified during synchronization.  Transfer aborted.
+UNISON 2.51.2 (OCAML 4.08.1) finished propagating changes at 21:10:54.96 on 01 May 2020
+Saving synchronizer state
+Synchronization incomplete at 21:10:55  (0 items transferred, 0 skipped, 1 failed)
+  failed: .docker-sync/daemon.log
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+UNISON 2.51.2 (OCAML 4.08.1) started propagating changes at 21:10:57.08 on 01 May 2020
+[BGN] Updating file .docker-sync/daemon.log from /Users/kaorina/rails_projects/todo_app to //0500d9a6f383//app_sync
+Failed: The source file /Users/kaorina/rails_projects/todo_app/.docker-sync/daemon.log
+has been modified during synchronization.  Transfer aborted.
+UNISON 2.51.2 (OCAML 4.08.1) finished propagating changes at 21:10:57.09 on 01 May 2020
+Saving synchronizer state
+Synchronization incomplete at 21:10:57  (0 items transferred, 0 skipped, 1 failed)
+  failed: .docker-sync/daemon.log
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+UNISON 2.51.2 (OCAML 4.08.1) started propagating changes at 21:10:59.19 on 01 May 2020
+[BGN] Updating file .docker-sync/daemon.log from /Users/kaorina/rails_projects/todo_app to //0500d9a6f383//app_sync
+Failed: The source file /Users/kaorina/rails_projects/todo_app/.docker-sync/daemon.log
+has been modified during synchronization.  Transfer aborted.
+UNISON 2.51.2 (OCAML 4.08.1) finished propagating changes at 21:10:59.20 on 01 May 2020
+Saving synchronizer state
+Synchronization incomplete at 21:10:59  (0 items transferred, 0 skipped, 1 failed)
+  failed: .docker-sync/daemon.log
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+UNISON 2.51.2 (OCAML 4.08.1) started propagating changes at 21:11:01.31 on 01 May 2020
+[BGN] Updating file .docker-sync/daemon.log from /Users/kaorina/rails_projects/todo_app to //0500d9a6f383//app_sync
+Failed: The source file /Users/kaorina/rails_projects/todo_app/.docker-sync/daemon.log
+has been modified during synchronization.  Transfer aborted.
+UNISON 2.51.2 (OCAML 4.08.1) finished propagating changes at 21:11:01.32 on 01 May 2020
+Saving synchronizer state
+Synchronization incomplete at 21:11:01  (0 items transferred, 0 skipped, 1 failed)
+  failed: .docker-sync/daemon.log
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+UNISON 2.51.2 (OCAML 4.08.1) started propagating changes at 21:11:03.38 on 01 May 2020
+[BGN] Updating file .docker-sync/daemon.log from /Users/kaorina/rails_projects/todo_app to //0500d9a6f383//app_sync
+Failed: The source file /Users/kaorina/rails_projects/todo_app/.docker-sync/daemon.log
+has been modified during synchronization.  Transfer aborted.
+UNISON 2.51.2 (OCAML 4.08.1) finished propagating changes at 21:11:03.39 on 01 May 2020
+Saving synchronizer state
+Synchronization incomplete at 21:11:03  (0 items transferred, 0 skipped, 1 failed)
+  failed: .docker-sync/daemon.log
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+UNISON 2.51.2 (OCAML 4.08.1) started propagating changes at 21:11:05.46 on 01 May 2020
+[BGN] Updating file .docker-sync/daemon.log from /Users/kaorina/rails_projects/todo_app to //0500d9a6f383//app_sync
+Failed: The source file /Users/kaorina/rails_projects/todo_app/.docker-sync/daemon.log
+has been modified during synchronization.  Transfer aborted.
+UNISON 2.51.2 (OCAML 4.08.1) finished propagating changes at 21:11:05.47 on 01 May 2020
+Saving synchronizer state
+Synchronization incomplete at 21:11:05  (0 items transferred, 0 skipped, 1 failed)
+  failed: .docker-sync/daemon.log
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+UNISON 2.51.2 (OCAML 4.08.1) started propagating changes at 21:11:07.55 on 01 May 2020
+[BGN] Updating file .docker-sync/daemon.log from /Users/kaorina/rails_projects/todo_app to //0500d9a6f383//app_sync
+Failed: The source file /Users/kaorina/rails_projects/todo_app/.docker-sync/daemon.log
+has been modified during synchronization.  Transfer aborted.
+UNISON 2.51.2 (OCAML 4.08.1) finished propagating changes at 21:11:07.56 on 01 May 2020
+Saving synchronizer state
+Synchronization incomplete at 21:11:07  (0 items transferred, 0 skipped, 1 failed)
+  failed: .docker-sync/daemon.log
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+UNISON 2.51.2 (OCAML 4.08.1) started propagating changes at 21:11:09.64 on 01 May 2020
+[BGN] Updating file .docker-sync/daemon.log from /Users/kaorina/rails_projects/todo_app to //0500d9a6f383//app_sync
+Failed: The source file /Users/kaorina/rails_projects/todo_app/.docker-sync/daemon.log
+has been modified during synchronization.  Transfer aborted.
+UNISON 2.51.2 (OCAML 4.08.1) finished propagating changes at 21:11:09.65 on 01 May 2020
+Saving synchronizer state
+Synchronization incomplete at 21:11:09  (0 items transferred, 0 skipped, 1 failed)
+  failed: .docker-sync/daemon.log
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+UNISON 2.51.2 (OCAML 4.08.1) started propagating changes at 21:11:11.73 on 01 May 2020
+[BGN] Updating file .docker-sync/daemon.log from /Users/kaorina/rails_projects/todo_app to //0500d9a6f383//app_sync
+Failed: The source file /Users/kaorina/rails_projects/todo_app/.docker-sync/daemon.log
+has been modified during synchronization.  Transfer aborted.
+UNISON 2.51.2 (OCAML 4.08.1) finished propagating changes at 21:11:11.74 on 01 May 2020
+Saving synchronizer state
+Synchronization incomplete at 21:11:11  (0 items transferred, 0 skipped, 1 failed)
+  failed: .docker-sync/daemon.log
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+UNISON 2.51.2 (OCAML 4.08.1) started propagating changes at 21:11:13.82 on 01 May 2020
+[BGN] Updating file .docker-sync/daemon.log from /Users/kaorina/rails_projects/todo_app to //0500d9a6f383//app_sync
+Failed: The source file /Users/kaorina/rails_projects/todo_app/.docker-sync/daemon.log
+has been modified during synchronization.  Transfer aborted.
+UNISON 2.51.2 (OCAML 4.08.1) finished propagating changes at 21:11:13.83 on 01 May 2020
+Saving synchronizer state
+Synchronization incomplete at 21:11:13  (0 items transferred, 0 skipped, 1 failed)
+  failed: .docker-sync/daemon.log
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+UNISON 2.51.2 (OCAML 4.08.1) started propagating changes at 21:11:15.93 on 01 May 2020
+[BGN] Updating file .docker-sync/daemon.log from /Users/kaorina/rails_projects/todo_app to //0500d9a6f383//app_sync
+Failed: The source file /Users/kaorina/rails_projects/todo_app/.docker-sync/daemon.log
+has been modified during synchronization.  Transfer aborted.
+UNISON 2.51.2 (OCAML 4.08.1) finished propagating changes at 21:11:15.94 on 01 May 2020
+Saving synchronizer state
+Synchronization incomplete at 21:11:16  (0 items transferred, 0 skipped, 1 failed)
+  failed: .docker-sync/daemon.log
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+UNISON 2.51.2 (OCAML 4.08.1) started propagating changes at 21:11:18.03 on 01 May 2020
+[BGN] Updating file .docker-sync/daemon.log from /Users/kaorina/rails_projects/todo_app to //0500d9a6f383//app_sync
+Failed: The source file /Users/kaorina/rails_projects/todo_app/.docker-sync/daemon.log
+has been modified during synchronization.  Transfer aborted.
+UNISON 2.51.2 (OCAML 4.08.1) finished propagating changes at 21:11:18.06 on 01 May 2020
+Saving synchronizer state
+Synchronization incomplete at 21:11:18  (0 items transferred, 0 skipped, 1 failed)
+  failed: .docker-sync/daemon.log
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+UNISON 2.51.2 (OCAML 4.08.1) started propagating changes at 21:11:20.18 on 01 May 2020
+[BGN] Updating file .docker-sync/daemon.log from /Users/kaorina/rails_projects/todo_app to //0500d9a6f383//app_sync
+Failed: The source file /Users/kaorina/rails_projects/todo_app/.docker-sync/daemon.log
+has been modified during synchronization.  Transfer aborted.
+UNISON 2.51.2 (OCAML 4.08.1) finished propagating changes at 21:11:20.20 on 01 May 2020
+Saving synchronizer state
+Synchronization incomplete at 21:11:20  (0 items transferred, 0 skipped, 1 failed)
+  failed: .docker-sync/daemon.log
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+UNISON 2.51.2 (OCAML 4.08.1) started propagating changes at 21:11:22.36 on 01 May 2020
+[BGN] Updating file .docker-sync/daemon.log from /Users/kaorina/rails_projects/todo_app to //0500d9a6f383//app_sync
+Failed: The source file /Users/kaorina/rails_projects/todo_app/.docker-sync/daemon.log
+has been modified during synchronization.  Transfer aborted.
+UNISON 2.51.2 (OCAML 4.08.1) finished propagating changes at 21:11:22.37 on 01 May 2020
+Saving synchronizer state
+Synchronization incomplete at 21:11:22  (0 items transferred, 0 skipped, 1 failed)
+  failed: .docker-sync/daemon.log
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+UNISON 2.51.2 (OCAML 4.08.1) started propagating changes at 21:11:24.44 on 01 May 2020
+[BGN] Updating file .docker-sync/daemon.log from /Users/kaorina/rails_projects/todo_app to //0500d9a6f383//app_sync
+Failed: The source file /Users/kaorina/rails_projects/todo_app/.docker-sync/daemon.log
+has been modified during synchronization.  Transfer aborted.
+UNISON 2.51.2 (OCAML 4.08.1) finished propagating changes at 21:11:24.45 on 01 May 2020
+Saving synchronizer state
+Synchronization incomplete at 21:11:24  (0 items transferred, 0 skipped, 1 failed)
+  failed: .docker-sync/daemon.log
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+UNISON 2.51.2 (OCAML 4.08.1) started propagating changes at 21:11:26.54 on 01 May 2020
+[BGN] Updating file .docker-sync/daemon.log from /Users/kaorina/rails_projects/todo_app to //0500d9a6f383//app_sync
+Failed: The source file /Users/kaorina/rails_projects/todo_app/.docker-sync/daemon.log
+has been modified during synchronization.  Transfer aborted.
+UNISON 2.51.2 (OCAML 4.08.1) finished propagating changes at 21:11:26.55 on 01 May 2020
+Saving synchronizer state
+Synchronization incomplete at 21:11:26  (0 items transferred, 0 skipped, 1 failed)
+  failed: .docker-sync/daemon.log
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+UNISON 2.51.2 (OCAML 4.08.1) started propagating changes at 21:11:28.66 on 01 May 2020
+[BGN] Updating file .docker-sync/daemon.log from /Users/kaorina/rails_projects/todo_app to //0500d9a6f383//app_sync
+Failed: The source file /Users/kaorina/rails_projects/todo_app/.docker-sync/daemon.log
+has been modified during synchronization.  Transfer aborted.
+UNISON 2.51.2 (OCAML 4.08.1) finished propagating changes at 21:11:28.67 on 01 May 2020
+Saving synchronizer state
+Synchronization incomplete at 21:11:28  (0 items transferred, 0 skipped, 1 failed)
+  failed: .docker-sync/daemon.log
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+UNISON 2.51.2 (OCAML 4.08.1) started propagating changes at 21:11:30.75 on 01 May 2020
+[BGN] Updating file .docker-sync/daemon.log from /Users/kaorina/rails_projects/todo_app to //0500d9a6f383//app_sync
+Failed: The source file /Users/kaorina/rails_projects/todo_app/.docker-sync/daemon.log
+has been modified during synchronization.  Transfer aborted.
+UNISON 2.51.2 (OCAML 4.08.1) finished propagating changes at 21:11:30.77 on 01 May 2020
+Saving synchronizer state
+Synchronization incomplete at 21:11:30  (0 items transferred, 0 skipped, 1 failed)
+  failed: .docker-sync/daemon.log
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+UNISON 2.51.2 (OCAML 4.08.1) started propagating changes at 21:11:32.83 on 01 May 2020
+[BGN] Updating file .docker-sync/daemon.log from /Users/kaorina/rails_projects/todo_app to //0500d9a6f383//app_sync
+Failed: The source file /Users/kaorina/rails_projects/todo_app/.docker-sync/daemon.log
+has been modified during synchronization.  Transfer aborted.
+UNISON 2.51.2 (OCAML 4.08.1) finished propagating changes at 21:11:32.85 on 01 May 2020
+Saving synchronizer state
+Synchronization incomplete at 21:11:32  (0 items transferred, 0 skipped, 1 failed)
+  failed: .docker-sync/daemon.log
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+UNISON 2.51.2 (OCAML 4.08.1) started propagating changes at 21:11:34.93 on 01 May 2020
+[BGN] Updating file .docker-sync/daemon.log from /Users/kaorina/rails_projects/todo_app to //0500d9a6f383//app_sync
+Failed: The source file /Users/kaorina/rails_projects/todo_app/.docker-sync/daemon.log
+has been modified during synchronization.  Transfer aborted.
+UNISON 2.51.2 (OCAML 4.08.1) finished propagating changes at 21:11:34.94 on 01 May 2020
+Saving synchronizer state
+Synchronization incomplete at 21:11:35  (0 items transferred, 0 skipped, 1 failed)
+  failed: .docker-sync/daemon.log
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+UNISON 2.51.2 (OCAML 4.08.1) started propagating changes at 21:11:37.02 on 01 May 2020
+[BGN] Updating file .docker-sync/daemon.log from /Users/kaorina/rails_projects/todo_app to //0500d9a6f383//app_sync
+Failed: The source file /Users/kaorina/rails_projects/todo_app/.docker-sync/daemon.log
+has been modified during synchronization.  Transfer aborted.
+UNISON 2.51.2 (OCAML 4.08.1) finished propagating changes at 21:11:37.03 on 01 May 2020
+Saving synchronizer state
+Synchronization incomplete at 21:11:37  (0 items transferred, 0 skipped, 1 failed)
+  failed: .docker-sync/daemon.log
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+UNISON 2.51.2 (OCAML 4.08.1) started propagating changes at 21:11:39.08 on 01 May 2020
+[BGN] Updating file .docker-sync/daemon.log from /Users/kaorina/rails_projects/todo_app to //0500d9a6f383//app_sync
+Failed: The source file /Users/kaorina/rails_projects/todo_app/.docker-sync/daemon.log
+has been modified during synchronization.  Transfer aborted.
+UNISON 2.51.2 (OCAML 4.08.1) finished propagating changes at 21:11:39.09 on 01 May 2020
+Saving synchronizer state
+Synchronization incomplete at 21:11:39  (0 items transferred, 0 skipped, 1 failed)
+  failed: .docker-sync/daemon.log
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Nothing to do: replicas have not changed since last sync.
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+UNISON 2.51.2 (OCAML 4.08.1) started propagating changes at 21:11:55.89 on 01 May 2020
+[BGN] Updating file .docker-sync/daemon.log from /Users/kaorina/rails_projects/todo_app to //0500d9a6f383//app_sync
+Failed: The source file /Users/kaorina/rails_projects/todo_app/.docker-sync/daemon.log
+has been modified during synchronization.  Transfer aborted.
+UNISON 2.51.2 (OCAML 4.08.1) finished propagating changes at 21:11:55.90 on 01 May 2020
+Saving synchronizer state
+Synchronization incomplete at 21:11:55  (0 items transferred, 0 skipped, 1 failed)
+  failed: .docker-sync/daemon.log
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+UNISON 2.51.2 (OCAML 4.08.1) started propagating changes at 21:11:57.96 on 01 May 2020
+[BGN] Updating file .docker-sync/daemon.log from /Users/kaorina/rails_projects/todo_app to //0500d9a6f383//app_sync
+Failed: The source file /Users/kaorina/rails_projects/todo_app/.docker-sync/daemon.log
+has been modified during synchronization.  Transfer aborted.
+UNISON 2.51.2 (OCAML 4.08.1) finished propagating changes at 21:11:57.97 on 01 May 2020
+Saving synchronizer state
+Synchronization incomplete at 21:11:58  (0 items transferred, 0 skipped, 1 failed)
+  failed: .docker-sync/daemon.log
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+UNISON 2.51.2 (OCAML 4.08.1) started propagating changes at 21:12:00.05 on 01 May 2020
+[BGN] Updating file .docker-sync/daemon.log from /Users/kaorina/rails_projects/todo_app to //0500d9a6f383//app_sync
+Failed: The source file /Users/kaorina/rails_projects/todo_app/.docker-sync/daemon.log
+has been modified during synchronization.  Transfer aborted.
+UNISON 2.51.2 (OCAML 4.08.1) finished propagating changes at 21:12:00.06 on 01 May 2020
+Saving synchronizer state
+Synchronization incomplete at 21:12:00  (0 items transferred, 0 skipped, 1 failed)
+  failed: .docker-sync/daemon.log
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+UNISON 2.51.2 (OCAML 4.08.1) started propagating changes at 21:12:02.13 on 01 May 2020
+[BGN] Updating file .docker-sync/daemon.log from /Users/kaorina/rails_projects/todo_app to //0500d9a6f383//app_sync
+Failed: The source file /Users/kaorina/rails_projects/todo_app/.docker-sync/daemon.log
+has been modified during synchronization.  Transfer aborted.
+UNISON 2.51.2 (OCAML 4.08.1) finished propagating changes at 21:12:02.15 on 01 May 2020
+Saving synchronizer state
+Synchronization incomplete at 21:12:02  (0 items transferred, 0 skipped, 1 failed)
+  failed: .docker-sync/daemon.log
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+UNISON 2.51.2 (OCAML 4.08.1) started propagating changes at 21:12:04.35 on 01 May 2020
+[BGN] Updating file .docker-sync/daemon.log from /Users/kaorina/rails_projects/todo_app to //0500d9a6f383//app_sync
+Failed: The source file /Users/kaorina/rails_projects/todo_app/.docker-sync/daemon.log
+has been modified during synchronization.  Transfer aborted.
+UNISON 2.51.2 (OCAML 4.08.1) finished propagating changes at 21:12:04.36 on 01 May 2020
+Saving synchronizer state
+Synchronization incomplete at 21:12:04  (0 items transferred, 0 skipped, 1 failed)
+  failed: .docker-sync/daemon.log
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+UNISON 2.51.2 (OCAML 4.08.1) started propagating changes at 21:12:06.43 on 01 May 2020
+[BGN] Updating file .docker-sync/daemon.log from /Users/kaorina/rails_projects/todo_app to //0500d9a6f383//app_sync
+Failed: The source file /Users/kaorina/rails_projects/todo_app/.docker-sync/daemon.log
+has been modified during synchronization.  Transfer aborted.
+UNISON 2.51.2 (OCAML 4.08.1) finished propagating changes at 21:12:06.46 on 01 May 2020
+Saving synchronizer state
+Synchronization incomplete at 21:12:06  (0 items transferred, 0 skipped, 1 failed)
+  failed: .docker-sync/daemon.log
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+UNISON 2.51.2 (OCAML 4.08.1) started propagating changes at 21:12:08.61 on 01 May 2020
+[BGN] Updating file .docker-sync/daemon.log from /Users/kaorina/rails_projects/todo_app to //0500d9a6f383//app_sync
+Failed: The source file /Users/kaorina/rails_projects/todo_app/.docker-sync/daemon.log
+has been modified during synchronization.  Transfer aborted.
+UNISON 2.51.2 (OCAML 4.08.1) finished propagating changes at 21:12:08.62 on 01 May 2020
+Saving synchronizer state
+Synchronization incomplete at 21:12:08  (0 items transferred, 0 skipped, 1 failed)
+  failed: .docker-sync/daemon.log
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+UNISON 2.51.2 (OCAML 4.08.1) started propagating changes at 21:12:10.67 on 01 May 2020
+[BGN] Updating file .docker-sync/daemon.log from /Users/kaorina/rails_projects/todo_app to //0500d9a6f383//app_sync
+Failed: The source file /Users/kaorina/rails_projects/todo_app/.docker-sync/daemon.log
+has been modified during synchronization.  Transfer aborted.
+UNISON 2.51.2 (OCAML 4.08.1) finished propagating changes at 21:12:10.68 on 01 May 2020
+Saving synchronizer state
+Synchronization incomplete at 21:12:10  (0 items transferred, 0 skipped, 1 failed)
+  failed: .docker-sync/daemon.log
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+UNISON 2.51.2 (OCAML 4.08.1) started propagating changes at 21:12:12.74 on 01 May 2020
+[BGN] Updating file .docker-sync/daemon.log from /Users/kaorina/rails_projects/todo_app to //0500d9a6f383//app_sync
+Failed: The source file /Users/kaorina/rails_projects/todo_app/.docker-sync/daemon.log
+has been modified during synchronization.  Transfer aborted.
+UNISON 2.51.2 (OCAML 4.08.1) finished propagating changes at 21:12:12.77 on 01 May 2020
+Saving synchronizer state
+Synchronization incomplete at 21:12:12  (0 items transferred, 0 skipped, 1 failed)
+  failed: .docker-sync/daemon.log
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+UNISON 2.51.2 (OCAML 4.08.1) started propagating changes at 21:12:14.88 on 01 May 2020
+[BGN] Updating file .docker-sync/daemon.log from /Users/kaorina/rails_projects/todo_app to //0500d9a6f383//app_sync
+Failed: The source file /Users/kaorina/rails_projects/todo_app/.docker-sync/daemon.log
+has been modified during synchronization.  Transfer aborted.
+UNISON 2.51.2 (OCAML 4.08.1) finished propagating changes at 21:12:14.89 on 01 May 2020
+Saving synchronizer state
+Synchronization incomplete at 21:12:14  (0 items transferred, 0 skipped, 1 failed)
+  failed: .docker-sync/daemon.log
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+UNISON 2.51.2 (OCAML 4.08.1) started propagating changes at 21:12:16.96 on 01 May 2020
+[BGN] Updating file .docker-sync/daemon.log from /Users/kaorina/rails_projects/todo_app to //0500d9a6f383//app_sync
+Failed: The source file /Users/kaorina/rails_projects/todo_app/.docker-sync/daemon.log
+has been modified during synchronization.  Transfer aborted.
+UNISON 2.51.2 (OCAML 4.08.1) finished propagating changes at 21:12:16.98 on 01 May 2020
+Saving synchronizer state
+Synchronization incomplete at 21:12:17  (0 items transferred, 0 skipped, 1 failed)
+  failed: .docker-sync/daemon.log
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Nothing to do: replicas have not changed since last sync.
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+UNISON 2.51.2 (OCAML 4.08.1) started propagating changes at 21:13:17.96 on 01 May 2020
+[BGN] Updating file .docker-sync/daemon.log from /Users/kaorina/rails_projects/todo_app to //0500d9a6f383//app_sync
+Failed: The source file /Users/kaorina/rails_projects/todo_app/.docker-sync/daemon.log
+has been modified during synchronization.  Transfer aborted.
+UNISON 2.51.2 (OCAML 4.08.1) finished propagating changes at 21:13:17.98 on 01 May 2020
+Saving synchronizer state
+Synchronization incomplete at 21:13:18  (0 items transferred, 0 skipped, 1 failed)
+  failed: .docker-sync/daemon.log
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Nothing to do: replicas have not changed since last sync.
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+UNISON 2.51.2 (OCAML 4.08.1) started propagating changes at 21:13:51.58 on 01 May 2020
+[BGN] Updating file .docker-sync/daemon.log from /Users/kaorina/rails_projects/todo_app to //0500d9a6f383//app_sync
+Failed: The source file /Users/kaorina/rails_projects/todo_app/.docker-sync/daemon.log
+has been modified during synchronization.  Transfer aborted.
+UNISON 2.51.2 (OCAML 4.08.1) finished propagating changes at 21:13:51.59 on 01 May 2020
+Saving synchronizer state
+Synchronization incomplete at 21:13:51  (0 items transferred, 0 skipped, 1 failed)
+  failed: .docker-sync/daemon.log
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Nothing to do: replicas have not changed since last sync.
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+UNISON 2.51.2 (OCAML 4.08.1) started propagating changes at 21:13:56.65 on 01 May 2020
+[BGN] Updating file .docker-sync/daemon.log from /Users/kaorina/rails_projects/todo_app to //0500d9a6f383//app_sync
+Failed: The source file /Users/kaorina/rails_projects/todo_app/.docker-sync/daemon.log
+has been modified during synchronization.  Transfer aborted.
+UNISON 2.51.2 (OCAML 4.08.1) finished propagating changes at 21:13:56.66 on 01 May 2020
+Saving synchronizer state
+Synchronization incomplete at 21:13:56  (0 items transferred, 0 skipped, 1 failed)
+  failed: .docker-sync/daemon.log
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+UNISON 2.51.2 (OCAML 4.08.1) started propagating changes at 21:13:58.72 on 01 May 2020
+[BGN] Updating file .docker-sync/daemon.log from /Users/kaorina/rails_projects/todo_app to //0500d9a6f383//app_sync
+Failed: The source file /Users/kaorina/rails_projects/todo_app/.docker-sync/daemon.log
+has been modified during synchronization.  Transfer aborted.
+UNISON 2.51.2 (OCAML 4.08.1) finished propagating changes at 21:13:58.74 on 01 May 2020
+Saving synchronizer state
+Synchronization incomplete at 21:13:58  (0 items transferred, 0 skipped, 1 failed)
+  failed: .docker-sync/daemon.log
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+UNISON 2.51.2 (OCAML 4.08.1) started propagating changes at 21:14:00.80 on 01 May 2020
+[BGN] Updating file .docker-sync/daemon.log from /Users/kaorina/rails_projects/todo_app to //0500d9a6f383//app_sync
+Failed: The source file /Users/kaorina/rails_projects/todo_app/.docker-sync/daemon.log
+has been modified during synchronization.  Transfer aborted.
+UNISON 2.51.2 (OCAML 4.08.1) finished propagating changes at 21:14:00.81 on 01 May 2020
+Saving synchronizer state
+Synchronization incomplete at 21:14:00  (0 items transferred, 0 skipped, 1 failed)
+  failed: .docker-sync/daemon.log
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+UNISON 2.51.2 (OCAML 4.08.1) started propagating changes at 21:14:02.88 on 01 May 2020
+[BGN] Updating file .docker-sync/daemon.log from /Users/kaorina/rails_projects/todo_app to //0500d9a6f383//app_sync
+Failed: The source file /Users/kaorina/rails_projects/todo_app/.docker-sync/daemon.log
+has been modified during synchronization.  Transfer aborted.
+UNISON 2.51.2 (OCAML 4.08.1) finished propagating changes at 21:14:02.89 on 01 May 2020
+Saving synchronizer state
+Synchronization incomplete at 21:14:02  (0 items transferred, 0 skipped, 1 failed)
+  failed: .docker-sync/daemon.log
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+UNISON 2.51.2 (OCAML 4.08.1) started propagating changes at 21:14:04.95 on 01 May 2020
+[BGN] Updating file .docker-sync/daemon.log from /Users/kaorina/rails_projects/todo_app to //0500d9a6f383//app_sync
+Failed: The source file /Users/kaorina/rails_projects/todo_app/.docker-sync/daemon.log
+has been modified during synchronization.  Transfer aborted.
+UNISON 2.51.2 (OCAML 4.08.1) finished propagating changes at 21:14:04.96 on 01 May 2020
+Saving synchronizer state
+Synchronization incomplete at 21:14:05  (0 items transferred, 0 skipped, 1 failed)
+  failed: .docker-sync/daemon.log
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Nothing to do: replicas have not changed since last sync.
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+UNISON 2.51.2 (OCAML 4.08.1) started propagating changes at 21:14:34.61 on 01 May 2020
+[BGN] Updating file .docker-sync/daemon.log from /Users/kaorina/rails_projects/todo_app to //0500d9a6f383//app_sync
+Failed: The source file /Users/kaorina/rails_projects/todo_app/.docker-sync/daemon.log
+has been modified during synchronization.  Transfer aborted.
+UNISON 2.51.2 (OCAML 4.08.1) finished propagating changes at 21:14:34.62 on 01 May 2020
+Saving synchronizer state
+Synchronization incomplete at 21:14:34  (0 items transferred, 0 skipped, 1 failed)
+  failed: .docker-sync/daemon.log
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+UNISON 2.51.2 (OCAML 4.08.1) started propagating changes at 21:14:36.68 on 01 May 2020
+[BGN] Updating file .docker-sync/daemon.log from /Users/kaorina/rails_projects/todo_app to //0500d9a6f383//app_sync
+Failed: The source file /Users/kaorina/rails_projects/todo_app/.docker-sync/daemon.log
+has been modified during synchronization.  Transfer aborted.
+UNISON 2.51.2 (OCAML 4.08.1) finished propagating changes at 21:14:36.69 on 01 May 2020
+Saving synchronizer state
+Synchronization incomplete at 21:14:36  (0 items transferred, 0 skipped, 1 failed)
+  failed: .docker-sync/daemon.log
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+UNISON 2.51.2 (OCAML 4.08.1) started propagating changes at 21:14:38.76 on 01 May 2020
+[BGN] Updating file .docker-sync/daemon.log from /Users/kaorina/rails_projects/todo_app to //0500d9a6f383//app_sync
+Failed: The source file /Users/kaorina/rails_projects/todo_app/.docker-sync/daemon.log
+has been modified during synchronization.  Transfer aborted.
+UNISON 2.51.2 (OCAML 4.08.1) finished propagating changes at 21:14:38.77 on 01 May 2020
+Saving synchronizer state
+Synchronization incomplete at 21:14:38  (0 items transferred, 0 skipped, 1 failed)
+  failed: .docker-sync/daemon.log
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Nothing to do: replicas have not changed since last sync.
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+UNISON 2.51.2 (OCAML 4.08.1) started propagating changes at 21:14:55.05 on 01 May 2020
+[BGN] Updating file .docker-sync/daemon.log from /Users/kaorina/rails_projects/todo_app to //0500d9a6f383//app_sync
+Failed: The source file /Users/kaorina/rails_projects/todo_app/.docker-sync/daemon.log
+has been modified during synchronization.  Transfer aborted.
+UNISON 2.51.2 (OCAML 4.08.1) finished propagating changes at 21:14:55.06 on 01 May 2020
+Saving synchronizer state
+Synchronization incomplete at 21:14:55  (0 items transferred, 0 skipped, 1 failed)
+  failed: .docker-sync/daemon.log
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+UNISON 2.51.2 (OCAML 4.08.1) started propagating changes at 21:14:57.10 on 01 May 2020
+[BGN] Updating file .docker-sync/daemon.log from /Users/kaorina/rails_projects/todo_app to //0500d9a6f383//app_sync
+Failed: The source file /Users/kaorina/rails_projects/todo_app/.docker-sync/daemon.log
+has been modified during synchronization.  Transfer aborted.
+UNISON 2.51.2 (OCAML 4.08.1) finished propagating changes at 21:14:57.12 on 01 May 2020
+Saving synchronizer state
+Synchronization incomplete at 21:14:57  (0 items transferred, 0 skipped, 1 failed)
+  failed: .docker-sync/daemon.log
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Nothing to do: replicas have not changed since last sync.
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+UNISON 2.51.2 (OCAML 4.08.1) started propagating changes at 21:15:00.19 on 01 May 2020
+[BGN] Updating file .docker-sync/daemon.log from /Users/kaorina/rails_projects/todo_app to //0500d9a6f383//app_sync
+Failed: The source file /Users/kaorina/rails_projects/todo_app/.docker-sync/daemon.log
+has been modified during synchronization.  Transfer aborted.
+UNISON 2.51.2 (OCAML 4.08.1) finished propagating changes at 21:15:00.20 on 01 May 2020
+Saving synchronizer state
+Synchronization incomplete at 21:15:00  (0 items transferred, 0 skipped, 1 failed)
+  failed: .docker-sync/daemon.log
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Nothing to do: replicas have not changed since last sync.
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+UNISON 2.51.2 (OCAML 4.08.1) started propagating changes at 21:15:05.80 on 01 May 2020
+[BGN] Updating file .docker-sync/daemon.log from /Users/kaorina/rails_projects/todo_app to //0500d9a6f383//app_sync
+Failed: The source file /Users/kaorina/rails_projects/todo_app/.docker-sync/daemon.log
+has been modified during synchronization.  Transfer aborted.
+UNISON 2.51.2 (OCAML 4.08.1) finished propagating changes at 21:15:05.81 on 01 May 2020
+Saving synchronizer state
+Synchronization incomplete at 21:15:05  (0 items transferred, 0 skipped, 1 failed)
+  failed: .docker-sync/daemon.log
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Nothing to do: replicas have not changed since last sync.
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+UNISON 2.51.2 (OCAML 4.08.1) started propagating changes at 21:15:45.47 on 01 May 2020
+[BGN] Updating file .docker-sync/daemon.log from /Users/kaorina/rails_projects/todo_app to //0500d9a6f383//app_sync
+Failed: The source file /Users/kaorina/rails_projects/todo_app/.docker-sync/daemon.log
+has been modified during synchronization.  Transfer aborted.
+UNISON 2.51.2 (OCAML 4.08.1) finished propagating changes at 21:15:45.49 on 01 May 2020
+Saving synchronizer state
+Synchronization incomplete at 21:15:45  (0 items transferred, 0 skipped, 1 failed)
+  failed: .docker-sync/daemon.log
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+UNISON 2.51.2 (OCAML 4.08.1) started propagating changes at 21:15:47.57 on 01 May 2020
+[BGN] Updating file .docker-sync/daemon.log from /Users/kaorina/rails_projects/todo_app to //0500d9a6f383//app_sync
+Failed: The source file /Users/kaorina/rails_projects/todo_app/.docker-sync/daemon.log
+has been modified during synchronization.  Transfer aborted.
+UNISON 2.51.2 (OCAML 4.08.1) finished propagating changes at 21:15:47.58 on 01 May 2020
+Saving synchronizer state
+Synchronization incomplete at 21:15:47  (0 items transferred, 0 skipped, 1 failed)
+  failed: .docker-sync/daemon.log
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Nothing to do: replicas have not changed since last sync.
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+UNISON 2.51.2 (OCAML 4.08.1) started propagating changes at 21:15:57.96 on 01 May 2020
+[BGN] Updating file .docker-sync/daemon.log from /Users/kaorina/rails_projects/todo_app to //0500d9a6f383//app_sync
+Failed: The source file /Users/kaorina/rails_projects/todo_app/.docker-sync/daemon.log
+has been modified during synchronization.  Transfer aborted.
+UNISON 2.51.2 (OCAML 4.08.1) finished propagating changes at 21:15:57.97 on 01 May 2020
+Saving synchronizer state
+Synchronization incomplete at 21:15:58  (0 items transferred, 0 skipped, 1 failed)
+  failed: .docker-sync/daemon.log
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Nothing to do: replicas have not changed since last sync.
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+UNISON 2.51.2 (OCAML 4.08.1) started propagating changes at 21:16:48.10 on 01 May 2020
+[BGN] Updating file .docker-sync/daemon.log from /Users/kaorina/rails_projects/todo_app to //0500d9a6f383//app_sync
+Failed: The source file /Users/kaorina/rails_projects/todo_app/.docker-sync/daemon.log
+has been modified during synchronization.  Transfer aborted.
+UNISON 2.51.2 (OCAML 4.08.1) finished propagating changes at 21:16:48.12 on 01 May 2020
+Saving synchronizer state
+Synchronization incomplete at 21:16:48  (0 items transferred, 0 skipped, 1 failed)
+  failed: .docker-sync/daemon.log
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+UNISON 2.51.2 (OCAML 4.08.1) started propagating changes at 21:16:50.19 on 01 May 2020
+[BGN] Updating file .docker-sync/daemon.log from /Users/kaorina/rails_projects/todo_app to //0500d9a6f383//app_sync
+Failed: The source file /Users/kaorina/rails_projects/todo_app/.docker-sync/daemon.log
+has been modified during synchronization.  Transfer aborted.
+UNISON 2.51.2 (OCAML 4.08.1) finished propagating changes at 21:16:50.21 on 01 May 2020
+Saving synchronizer state
+Synchronization incomplete at 21:16:50  (0 items transferred, 0 skipped, 1 failed)
+  failed: .docker-sync/daemon.log
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+UNISON 2.51.2 (OCAML 4.08.1) started propagating changes at 21:16:52.27 on 01 May 2020
+[BGN] Updating file .docker-sync/daemon.log from /Users/kaorina/rails_projects/todo_app to //0500d9a6f383//app_sync
+Failed: The source file /Users/kaorina/rails_projects/todo_app/.docker-sync/daemon.log
+has been modified during synchronization.  Transfer aborted.
+UNISON 2.51.2 (OCAML 4.08.1) finished propagating changes at 21:16:52.29 on 01 May 2020
+Saving synchronizer state
+Synchronization incomplete at 21:16:52  (0 items transferred, 0 skipped, 1 failed)
+  failed: .docker-sync/daemon.log
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+UNISON 2.51.2 (OCAML 4.08.1) started propagating changes at 21:16:54.37 on 01 May 2020
+[BGN] Updating file .docker-sync/daemon.log from /Users/kaorina/rails_projects/todo_app to //0500d9a6f383//app_sync
+Failed: The source file /Users/kaorina/rails_projects/todo_app/.docker-sync/daemon.log
+has been modified during synchronization.  Transfer aborted.
+UNISON 2.51.2 (OCAML 4.08.1) finished propagating changes at 21:16:54.38 on 01 May 2020
+Saving synchronizer state
+Synchronization incomplete at 21:16:54  (0 items transferred, 0 skipped, 1 failed)
+  failed: .docker-sync/daemon.log
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+UNISON 2.51.2 (OCAML 4.08.1) started propagating changes at 21:16:56.44 on 01 May 2020
+[BGN] Updating file .docker-sync/daemon.log from /Users/kaorina/rails_projects/todo_app to //0500d9a6f383//app_sync
+Failed: The source file /Users/kaorina/rails_projects/todo_app/.docker-sync/daemon.log
+has been modified during synchronization.  Transfer aborted.
+UNISON 2.51.2 (OCAML 4.08.1) finished propagating changes at 21:16:56.45 on 01 May 2020
+Saving synchronizer state
+Synchronization incomplete at 21:16:56  (0 items transferred, 0 skipped, 1 failed)
+  failed: .docker-sync/daemon.log
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Nothing to do: replicas have not changed since last sync.
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+UNISON 2.51.2 (OCAML 4.08.1) started propagating changes at 22:00:25.38 on 01 May 2020
+[BGN] Updating file .docker-sync/daemon.log from /Users/kaorina/rails_projects/todo_app to //0500d9a6f383//app_sync
+Failed: The source file /Users/kaorina/rails_projects/todo_app/.docker-sync/daemon.log
+has been modified during synchronization.  Transfer aborted.
+UNISON 2.51.2 (OCAML 4.08.1) finished propagating changes at 22:00:25.39 on 01 May 2020
+Saving synchronizer state
+Synchronization incomplete at 22:00:25  (0 items transferred, 0 skipped, 1 failed)
+  failed: .docker-sync/daemon.log
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Nothing to do: replicas have not changed since last sync.
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+UNISON 2.51.2 (OCAML 4.08.1) started propagating changes at 09:07:33.55 on 02 May 2020
+[BGN] Updating file .docker-sync/daemon.log from /Users/kaorina/rails_projects/todo_app to //0500d9a6f383//app_sync
+Failed: The source file /Users/kaorina/rails_projects/todo_app/.docker-sync/daemon.log
+has been modified during synchronization.  Transfer aborted.
+UNISON 2.51.2 (OCAML 4.08.1) finished propagating changes at 09:07:33.58 on 02 May 2020
+Saving synchronizer state
+Synchronization incomplete at 09:07:33  (0 items transferred, 0 skipped, 1 failed)
+  failed: .docker-sync/daemon.log
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Nothing to do: replicas have not changed since last sync.
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+UNISON 2.51.2 (OCAML 4.08.1) started propagating changes at 09:28:54.95 on 02 May 2020
+[BGN] Updating file .docker-sync/daemon.log from /Users/kaorina/rails_projects/todo_app to //0500d9a6f383//app_sync
+Failed: The source file /Users/kaorina/rails_projects/todo_app/.docker-sync/daemon.log
+has been modified during synchronization.  Transfer aborted.
+UNISON 2.51.2 (OCAML 4.08.1) finished propagating changes at 09:28:54.97 on 02 May 2020
+Saving synchronizer state
+Synchronization incomplete at 09:28:55  (0 items transferred, 0 skipped, 1 failed)
+  failed: .docker-sync/daemon.log
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Nothing to do: replicas have not changed since last sync.
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+UNISON 2.51.2 (OCAML 4.08.1) started propagating changes at 18:13:32.45 on 02 May 2020
+[BGN] Updating file .docker-sync/daemon.log from /Users/kaorina/rails_projects/todo_app to //0500d9a6f383//app_sync
+Failed: The source file /Users/kaorina/rails_projects/todo_app/.docker-sync/daemon.log
+has been modified during synchronization.  Transfer aborted.
+UNISON 2.51.2 (OCAML 4.08.1) finished propagating changes at 18:13:32.48 on 02 May 2020
+Saving synchronizer state
+Synchronization incomplete at 18:13:32  (0 items transferred, 0 skipped, 1 failed)
+  failed: .docker-sync/daemon.log
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Nothing to do: replicas have not changed since last sync.
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+UNISON 2.51.2 (OCAML 4.08.1) started propagating changes at 18:14:45.83 on 02 May 2020
+[BGN] Updating file .docker-sync/daemon.log from /Users/kaorina/rails_projects/todo_app to //0500d9a6f383//app_sync
+[BGN] Copying db/migrate from /Users/kaorina/rails_projects/todo_app to //0500d9a6f383//app_sync
+Failed: The source file /Users/kaorina/rails_projects/todo_app/.docker-sync/daemon.log
+has been modified during synchronization.  Transfer aborted.
+[END] Copying db/migrate
+UNISON 2.51.2 (OCAML 4.08.1) finished propagating changes at 18:14:45.85 on 02 May 2020
+Saving synchronizer state
+Synchronization incomplete at 18:14:45  (1 item transferred, 0 skipped, 1 failed)
+  failed: .docker-sync/daemon.log
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+UNISON 2.51.2 (OCAML 4.08.1) started propagating changes at 18:14:47.94 on 02 May 2020
+[BGN] Updating file .docker-sync/daemon.log from /Users/kaorina/rails_projects/todo_app to //0500d9a6f383//app_sync
+[BGN] Copying app/assets/stylesheets/scaffolds.scss from /Users/kaorina/rails_projects/todo_app to //0500d9a6f383//app_sync
+[BGN] Copying app/assets/stylesheets/users.scss from /Users/kaorina/rails_projects/todo_app to //0500d9a6f383//app_sync
+[BGN] Copying app/controllers/users_controller.rb from /Users/kaorina/rails_projects/todo_app to //0500d9a6f383//app_sync
+[BGN] Copying app/helpers/users_helper.rb from /Users/kaorina/rails_projects/todo_app to //0500d9a6f383//app_sync
+[BGN] Copying app/models/user.rb from /Users/kaorina/rails_projects/todo_app to //0500d9a6f383//app_sync
+[BGN] Copying app/views/users from /Users/kaorina/rails_projects/todo_app to //0500d9a6f383//app_sync
+[BGN] Updating file config/routes.rb from /Users/kaorina/rails_projects/todo_app to //0500d9a6f383//app_sync
+Failed: The source file /Users/kaorina/rails_projects/todo_app/.docker-sync/daemon.log
+has been modified during synchronization.  Transfer aborted.
+[END] Copying app/assets/stylesheets/scaffolds.scss
+[END] Copying app/assets/stylesheets/users.scss
+[END] Copying app/controllers/users_controller.rb
+[END] Copying app/helpers/users_helper.rb
+[END] Copying app/models/user.rb
+[END] Updating file config/routes.rb
+[END] Copying app/views/users
+UNISON 2.51.2 (OCAML 4.08.1) finished propagating changes at 18:14:47.97 on 02 May 2020
+Saving synchronizer state
+Synchronization incomplete at 18:14:48  (7 items transferred, 0 skipped, 1 failed)
+  failed: .docker-sync/daemon.log
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+UNISON 2.51.2 (OCAML 4.08.1) started propagating changes at 18:14:50.07 on 02 May 2020
+[BGN] Updating file .docker-sync/daemon.log from /Users/kaorina/rails_projects/todo_app to //0500d9a6f383//app_sync
+Failed: The source file /Users/kaorina/rails_projects/todo_app/.docker-sync/daemon.log
+has been modified during synchronization.  Transfer aborted.
+UNISON 2.51.2 (OCAML 4.08.1) finished propagating changes at 18:14:50.08 on 02 May 2020
+Saving synchronizer state
+Synchronization incomplete at 18:14:50  (0 items transferred, 0 skipped, 1 failed)
+  failed: .docker-sync/daemon.log
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+UNISON 2.51.2 (OCAML 4.08.1) started propagating changes at 18:14:52.14 on 02 May 2020
+[BGN] Updating file .docker-sync/daemon.log from /Users/kaorina/rails_projects/todo_app to //0500d9a6f383//app_sync
+Failed: The source file /Users/kaorina/rails_projects/todo_app/.docker-sync/daemon.log
+has been modified during synchronization.  Transfer aborted.
+UNISON 2.51.2 (OCAML 4.08.1) finished propagating changes at 18:14:52.15 on 02 May 2020
+Saving synchronizer state
+Synchronization incomplete at 18:14:52  (0 items transferred, 0 skipped, 1 failed)
+  failed: .docker-sync/daemon.log
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Nothing to do: replicas have not changed since last sync.
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+UNISON 2.51.2 (OCAML 4.08.1) started propagating changes at 18:15:18.41 on 02 May 2020
+[BGN] Updating file .docker-sync/daemon.log from /Users/kaorina/rails_projects/todo_app to //0500d9a6f383//app_sync
+Failed: The source file /Users/kaorina/rails_projects/todo_app/.docker-sync/daemon.log
+has been modified during synchronization.  Transfer aborted.
+UNISON 2.51.2 (OCAML 4.08.1) finished propagating changes at 18:15:18.42 on 02 May 2020
+Saving synchronizer state
+Synchronization incomplete at 18:15:18  (0 items transferred, 0 skipped, 1 failed)
+  failed: .docker-sync/daemon.log
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+UNISON 2.51.2 (OCAML 4.08.1) started propagating changes at 18:15:20.49 on 02 May 2020
+[BGN] Updating file .docker-sync/daemon.log from /Users/kaorina/rails_projects/todo_app to //0500d9a6f383//app_sync
+Failed: The source file /Users/kaorina/rails_projects/todo_app/.docker-sync/daemon.log
+has been modified during synchronization.  Transfer aborted.
+UNISON 2.51.2 (OCAML 4.08.1) finished propagating changes at 18:15:20.50 on 02 May 2020
+Saving synchronizer state
+Synchronization incomplete at 18:15:20  (0 items transferred, 0 skipped, 1 failed)
+  failed: .docker-sync/daemon.log
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+UNISON 2.51.2 (OCAML 4.08.1) started propagating changes at 18:15:22.59 on 02 May 2020
+[BGN] Updating file .docker-sync/daemon.log from /Users/kaorina/rails_projects/todo_app to //0500d9a6f383//app_sync
+Failed: The source file /Users/kaorina/rails_projects/todo_app/.docker-sync/daemon.log
+has been modified during synchronization.  Transfer aborted.
+UNISON 2.51.2 (OCAML 4.08.1) finished propagating changes at 18:15:22.60 on 02 May 2020
+Saving synchronizer state
+Synchronization incomplete at 18:15:22  (0 items transferred, 0 skipped, 1 failed)
+  failed: .docker-sync/daemon.log
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+UNISON 2.51.2 (OCAML 4.08.1) started propagating changes at 18:15:24.86 on 02 May 2020
+[BGN] Updating file .docker-sync/daemon.log from /Users/kaorina/rails_projects/todo_app to //0500d9a6f383//app_sync
+Failed: The source file /Users/kaorina/rails_projects/todo_app/.docker-sync/daemon.log
+has been modified during synchronization.  Transfer aborted.
+UNISON 2.51.2 (OCAML 4.08.1) finished propagating changes at 18:15:24.87 on 02 May 2020
+Saving synchronizer state
+Synchronization incomplete at 18:15:24  (0 items transferred, 0 skipped, 1 failed)
+  failed: .docker-sync/daemon.log
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+UNISON 2.51.2 (OCAML 4.08.1) started propagating changes at 18:15:26.95 on 02 May 2020
+[BGN] Updating file .docker-sync/daemon.log from /Users/kaorina/rails_projects/todo_app to //0500d9a6f383//app_sync
+Failed: The source file /Users/kaorina/rails_projects/todo_app/.docker-sync/daemon.log
+has been modified during synchronization.  Transfer aborted.
+UNISON 2.51.2 (OCAML 4.08.1) finished propagating changes at 18:15:26.96 on 02 May 2020
+Saving synchronizer state
+Synchronization incomplete at 18:15:27  (0 items transferred, 0 skipped, 1 failed)
+  failed: .docker-sync/daemon.log
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Nothing to do: replicas have not changed since last sync.
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+UNISON 2.51.2 (OCAML 4.08.1) started propagating changes at 18:15:48.55 on 02 May 2020
+[BGN] Updating file .docker-sync/daemon.log from /Users/kaorina/rails_projects/todo_app to //0500d9a6f383//app_sync
+[BGN] Copying db/schema.rb from /Users/kaorina/rails_projects/todo_app to //0500d9a6f383//app_sync
+Failed: The source file /Users/kaorina/rails_projects/todo_app/.docker-sync/daemon.log
+has been modified during synchronization.  Transfer aborted.
+[END] Copying db/schema.rb
+UNISON 2.51.2 (OCAML 4.08.1) finished propagating changes at 18:15:48.57 on 02 May 2020
+Saving synchronizer state
+Synchronization incomplete at 18:15:48  (1 item transferred, 0 skipped, 1 failed)
+  failed: .docker-sync/daemon.log
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+UNISON 2.51.2 (OCAML 4.08.1) started propagating changes at 18:15:50.61 on 02 May 2020
+[BGN] Updating file .docker-sync/daemon.log from /Users/kaorina/rails_projects/todo_app to //0500d9a6f383//app_sync
+Failed: The source file /Users/kaorina/rails_projects/todo_app/.docker-sync/daemon.log
+has been modified during synchronization.  Transfer aborted.
+UNISON 2.51.2 (OCAML 4.08.1) finished propagating changes at 18:15:50.63 on 02 May 2020
+Saving synchronizer state
+Synchronization incomplete at 18:15:50  (0 items transferred, 0 skipped, 1 failed)
+  failed: .docker-sync/daemon.log
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+UNISON 2.51.2 (OCAML 4.08.1) started propagating changes at 18:15:52.67 on 02 May 2020
+[BGN] Updating file .docker-sync/daemon.log from /Users/kaorina/rails_projects/todo_app to //0500d9a6f383//app_sync
+Failed: The source file /Users/kaorina/rails_projects/todo_app/.docker-sync/daemon.log
+has been modified during synchronization.  Transfer aborted.
+UNISON 2.51.2 (OCAML 4.08.1) finished propagating changes at 18:15:52.69 on 02 May 2020
+Saving synchronizer state
+Synchronization incomplete at 18:15:52  (0 items transferred, 0 skipped, 1 failed)
+  failed: .docker-sync/daemon.log
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Nothing to do: replicas have not changed since last sync.
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+UNISON 2.51.2 (OCAML 4.08.1) started propagating changes at 18:16:09.71 on 02 May 2020
+[BGN] Updating file .docker-sync/daemon.log from /Users/kaorina/rails_projects/todo_app to //0500d9a6f383//app_sync
+Failed: The source file /Users/kaorina/rails_projects/todo_app/.docker-sync/daemon.log
+has been modified during synchronization.  Transfer aborted.
+UNISON 2.51.2 (OCAML 4.08.1) finished propagating changes at 18:16:09.72 on 02 May 2020
+Saving synchronizer state
+Synchronization incomplete at 18:16:09  (0 items transferred, 0 skipped, 1 failed)
+  failed: .docker-sync/daemon.log
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+UNISON 2.51.2 (OCAML 4.08.1) started propagating changes at 18:16:11.77 on 02 May 2020
+[BGN] Updating file .docker-sync/daemon.log from /Users/kaorina/rails_projects/todo_app to //0500d9a6f383//app_sync
+Failed: The source file /Users/kaorina/rails_projects/todo_app/.docker-sync/daemon.log
+has been modified during synchronization.  Transfer aborted.
+UNISON 2.51.2 (OCAML 4.08.1) finished propagating changes at 18:16:11.83 on 02 May 2020
+Saving synchronizer state
+Synchronization incomplete at 18:16:11  (0 items transferred, 0 skipped, 1 failed)
+  failed: .docker-sync/daemon.log
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+UNISON 2.51.2 (OCAML 4.08.1) started propagating changes at 18:16:13.92 on 02 May 2020
+[BGN] Updating file .docker-sync/daemon.log from /Users/kaorina/rails_projects/todo_app to //0500d9a6f383//app_sync
+Failed: The source file /Users/kaorina/rails_projects/todo_app/.docker-sync/daemon.log
+has been modified during synchronization.  Transfer aborted.
+UNISON 2.51.2 (OCAML 4.08.1) finished propagating changes at 18:16:13.93 on 02 May 2020
+Saving synchronizer state
+Synchronization incomplete at 18:16:13  (0 items transferred, 0 skipped, 1 failed)
+  failed: .docker-sync/daemon.log
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Nothing to do: replicas have not changed since last sync.
+Fatal error: Lost connection with the server
+          ok  Starting unison for sync todo_syncs
+          ok  todo_syncs container still running, restarting unison in container
+          ok  Synced /Users/kaorina/rails_projects/todo_app/
+     success  Unison server started
+          ok  Synced /Users/kaorina/rails_projects/todo_app/
+Unison 2.51.2 (ocaml 4.08.1): Contacting server...
+Connected [//0500d9a6f383//app_sync -> //KaorinoBookpuro//Users/kaorina/rails_projects/todo_app]
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+UNISON 2.51.2 (OCAML 4.08.1) started propagating changes at 18:16:35.90 on 02 May 2020
+[BGN] Updating file .docker-sync/daemon.log from /Users/kaorina/rails_projects/todo_app to //0500d9a6f383//app_sync
+Failed: The source file /Users/kaorina/rails_projects/todo_app/.docker-sync/daemon.log
+has been modified during synchronization.  Transfer aborted.
+UNISON 2.51.2 (OCAML 4.08.1) finished propagating changes at 18:16:35.92 on 02 May 2020
+Saving synchronizer state
+Synchronization incomplete at 18:16:35  (0 items transferred, 0 skipped, 1 failed)
+  failed: .docker-sync/daemon.log
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+UNISON 2.51.2 (OCAML 4.08.1) started propagating changes at 18:16:37.96 on 02 May 2020
+[BGN] Updating file .docker-sync/daemon.log from /Users/kaorina/rails_projects/todo_app to //0500d9a6f383//app_sync
+Failed: The source file /Users/kaorina/rails_projects/todo_app/.docker-sync/daemon.log
+has been modified during synchronization.  Transfer aborted.
+UNISON 2.51.2 (OCAML 4.08.1) finished propagating changes at 18:16:37.98 on 02 May 2020
+Saving synchronizer state
+Synchronization incomplete at 18:16:38  (0 items transferred, 0 skipped, 1 failed)
+  failed: .docker-sync/daemon.log
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+UNISON 2.51.2 (OCAML 4.08.1) started propagating changes at 18:16:40.05 on 02 May 2020
+[BGN] Updating file .docker-sync/daemon.log from /Users/kaorina/rails_projects/todo_app to //0500d9a6f383//app_sync
+Failed: The source file /Users/kaorina/rails_projects/todo_app/.docker-sync/daemon.log
+has been modified during synchronization.  Transfer aborted.
+UNISON 2.51.2 (OCAML 4.08.1) finished propagating changes at 18:16:40.10 on 02 May 2020
+Saving synchronizer state
+Synchronization incomplete at 18:16:40  (0 items transferred, 0 skipped, 1 failed)
+  failed: .docker-sync/daemon.log
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Nothing to do: replicas have not changed since last sync.
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+UNISON 2.51.2 (OCAML 4.08.1) started propagating changes at 18:16:43.20 on 02 May 2020
+[BGN] Updating file .docker-sync/daemon.log from /Users/kaorina/rails_projects/todo_app to //0500d9a6f383//app_sync
+Failed: The source file /Users/kaorina/rails_projects/todo_app/.docker-sync/daemon.log
+has been modified during synchronization.  Transfer aborted.
+UNISON 2.51.2 (OCAML 4.08.1) finished propagating changes at 18:16:43.21 on 02 May 2020
+Saving synchronizer state
+Synchronization incomplete at 18:16:43  (0 items transferred, 0 skipped, 1 failed)
+  failed: .docker-sync/daemon.log
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Nothing to do: replicas have not changed since last sync.
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+UNISON 2.51.2 (OCAML 4.08.1) started propagating changes at 18:16:53.20 on 02 May 2020
+[BGN] Updating file .docker-sync/daemon.log from /Users/kaorina/rails_projects/todo_app to //0500d9a6f383//app_sync
+Failed: The source file /Users/kaorina/rails_projects/todo_app/.docker-sync/daemon.log
+has been modified during synchronization.  Transfer aborted.
+UNISON 2.51.2 (OCAML 4.08.1) finished propagating changes at 18:16:53.21 on 02 May 2020
+Saving synchronizer state
+Synchronization incomplete at 18:16:53  (0 items transferred, 0 skipped, 1 failed)
+  failed: .docker-sync/daemon.log
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Nothing to do: replicas have not changed since last sync.
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+UNISON 2.51.2 (OCAML 4.08.1) started propagating changes at 18:17:09.77 on 02 May 2020
+[BGN] Updating file .docker-sync/daemon.log from /Users/kaorina/rails_projects/todo_app to //0500d9a6f383//app_sync
+Failed: The source file /Users/kaorina/rails_projects/todo_app/.docker-sync/daemon.log
+has been modified during synchronization.  Transfer aborted.
+UNISON 2.51.2 (OCAML 4.08.1) finished propagating changes at 18:17:09.78 on 02 May 2020
+Saving synchronizer state
+Synchronization incomplete at 18:17:09  (0 items transferred, 0 skipped, 1 failed)
+  failed: .docker-sync/daemon.log
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+UNISON 2.51.2 (OCAML 4.08.1) started propagating changes at 18:17:11.86 on 02 May 2020
+[BGN] Updating file .docker-sync/daemon.log from /Users/kaorina/rails_projects/todo_app to //0500d9a6f383//app_sync
+Failed: The source file /Users/kaorina/rails_projects/todo_app/.docker-sync/daemon.log
+has been modified during synchronization.  Transfer aborted.
+UNISON 2.51.2 (OCAML 4.08.1) finished propagating changes at 18:17:11.87 on 02 May 2020
+Saving synchronizer state
+Synchronization incomplete at 18:17:11  (0 items transferred, 0 skipped, 1 failed)
+  failed: .docker-sync/daemon.log
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+UNISON 2.51.2 (OCAML 4.08.1) started propagating changes at 18:17:13.92 on 02 May 2020
+[BGN] Updating file .docker-sync/daemon.log from /Users/kaorina/rails_projects/todo_app to //0500d9a6f383//app_sync
+Failed: The source file /Users/kaorina/rails_projects/todo_app/.docker-sync/daemon.log
+has been modified during synchronization.  Transfer aborted.
+UNISON 2.51.2 (OCAML 4.08.1) finished propagating changes at 18:17:13.93 on 02 May 2020
+Saving synchronizer state
+Synchronization incomplete at 18:17:13  (0 items transferred, 0 skipped, 1 failed)
+  failed: .docker-sync/daemon.log
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+UNISON 2.51.2 (OCAML 4.08.1) started propagating changes at 18:17:15.98 on 02 May 2020
+[BGN] Updating file .docker-sync/daemon.log from /Users/kaorina/rails_projects/todo_app to //0500d9a6f383//app_sync
+Failed: The source file /Users/kaorina/rails_projects/todo_app/.docker-sync/daemon.log
+has been modified during synchronization.  Transfer aborted.
+UNISON 2.51.2 (OCAML 4.08.1) finished propagating changes at 18:17:15.99 on 02 May 2020
+Saving synchronizer state
+Synchronization incomplete at 18:17:16  (0 items transferred, 0 skipped, 1 failed)
+  failed: .docker-sync/daemon.log
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Nothing to do: replicas have not changed since last sync.
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+UNISON 2.51.2 (OCAML 4.08.1) started propagating changes at 18:17:20.58 on 02 May 2020
+[BGN] Updating file .docker-sync/daemon.log from /Users/kaorina/rails_projects/todo_app to //0500d9a6f383//app_sync
+Failed: The source file /Users/kaorina/rails_projects/todo_app/.docker-sync/daemon.log
+has been modified during synchronization.  Transfer aborted.
+UNISON 2.51.2 (OCAML 4.08.1) finished propagating changes at 18:17:20.59 on 02 May 2020
+Saving synchronizer state
+Synchronization incomplete at 18:17:20  (0 items transferred, 0 skipped, 1 failed)
+  failed: .docker-sync/daemon.log
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+UNISON 2.51.2 (OCAML 4.08.1) started propagating changes at 18:17:22.64 on 02 May 2020
+[BGN] Updating file .docker-sync/daemon.log from /Users/kaorina/rails_projects/todo_app to //0500d9a6f383//app_sync
+Failed: The source file /Users/kaorina/rails_projects/todo_app/.docker-sync/daemon.log
+has been modified during synchronization.  Transfer aborted.
+UNISON 2.51.2 (OCAML 4.08.1) finished propagating changes at 18:17:22.65 on 02 May 2020
+Saving synchronizer state
+Synchronization incomplete at 18:17:22  (0 items transferred, 0 skipped, 1 failed)
+  failed: .docker-sync/daemon.log
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+UNISON 2.51.2 (OCAML 4.08.1) started propagating changes at 18:17:24.72 on 02 May 2020
+[BGN] Updating file .docker-sync/daemon.log from /Users/kaorina/rails_projects/todo_app to //0500d9a6f383//app_sync
+Failed: The source file /Users/kaorina/rails_projects/todo_app/.docker-sync/daemon.log
+has been modified during synchronization.  Transfer aborted.
+UNISON 2.51.2 (OCAML 4.08.1) finished propagating changes at 18:17:24.74 on 02 May 2020
+Saving synchronizer state
+Synchronization incomplete at 18:17:24  (0 items transferred, 0 skipped, 1 failed)
+  failed: .docker-sync/daemon.log
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+UNISON 2.51.2 (OCAML 4.08.1) started propagating changes at 18:17:26.81 on 02 May 2020
+[BGN] Updating file .docker-sync/daemon.log from /Users/kaorina/rails_projects/todo_app to //0500d9a6f383//app_sync
+Failed: The source file /Users/kaorina/rails_projects/todo_app/.docker-sync/daemon.log
+has been modified during synchronization.  Transfer aborted.
+UNISON 2.51.2 (OCAML 4.08.1) finished propagating changes at 18:17:26.82 on 02 May 2020
+Saving synchronizer state
+Synchronization incomplete at 18:17:26  (0 items transferred, 0 skipped, 1 failed)
+  failed: .docker-sync/daemon.log
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+UNISON 2.51.2 (OCAML 4.08.1) started propagating changes at 18:17:28.88 on 02 May 2020
+[BGN] Updating file .docker-sync/daemon.log from /Users/kaorina/rails_projects/todo_app to //0500d9a6f383//app_sync
+Failed: The source file /Users/kaorina/rails_projects/todo_app/.docker-sync/daemon.log
+has been modified during synchronization.  Transfer aborted.
+UNISON 2.51.2 (OCAML 4.08.1) finished propagating changes at 18:17:28.89 on 02 May 2020
+Saving synchronizer state
+Synchronization incomplete at 18:17:28  (0 items transferred, 0 skipped, 1 failed)
+  failed: .docker-sync/daemon.log
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Nothing to do: replicas have not changed since last sync.
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+UNISON 2.51.2 (OCAML 4.08.1) started propagating changes at 18:17:42.83 on 02 May 2020
+[BGN] Updating file .docker-sync/daemon.log from /Users/kaorina/rails_projects/todo_app to //0500d9a6f383//app_sync
+Failed: The source file /Users/kaorina/rails_projects/todo_app/.docker-sync/daemon.log
+has been modified during synchronization.  Transfer aborted.
+UNISON 2.51.2 (OCAML 4.08.1) finished propagating changes at 18:17:42.84 on 02 May 2020
+Saving synchronizer state
+Synchronization incomplete at 18:17:42  (0 items transferred, 0 skipped, 1 failed)
+  failed: .docker-sync/daemon.log
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+UNISON 2.51.2 (OCAML 4.08.1) started propagating changes at 18:17:44.89 on 02 May 2020
+[BGN] Updating file .docker-sync/daemon.log from /Users/kaorina/rails_projects/todo_app to //0500d9a6f383//app_sync
+Failed: The source file /Users/kaorina/rails_projects/todo_app/.docker-sync/daemon.log
+has been modified during synchronization.  Transfer aborted.
+UNISON 2.51.2 (OCAML 4.08.1) finished propagating changes at 18:17:44.91 on 02 May 2020
+Saving synchronizer state
+Synchronization incomplete at 18:17:44  (0 items transferred, 0 skipped, 1 failed)
+  failed: .docker-sync/daemon.log
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+UNISON 2.51.2 (OCAML 4.08.1) started propagating changes at 18:17:46.98 on 02 May 2020
+[BGN] Updating file .docker-sync/daemon.log from /Users/kaorina/rails_projects/todo_app to //0500d9a6f383//app_sync
+[BGN] Copying public/packs from /Users/kaorina/rails_projects/todo_app to //0500d9a6f383//app_sync
+Failed: The source file /Users/kaorina/rails_projects/todo_app/.docker-sync/daemon.log
+has been modified during synchronization.  Transfer aborted.
+[END] Copying public/packs
+UNISON 2.51.2 (OCAML 4.08.1) finished propagating changes at 18:17:47.02 on 02 May 2020
+Saving synchronizer state
+Synchronization incomplete at 18:17:47  (1 item transferred, 0 skipped, 1 failed)
+  failed: .docker-sync/daemon.log
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+UNISON 2.51.2 (OCAML 4.08.1) started propagating changes at 18:17:49.07 on 02 May 2020
+[BGN] Updating file .docker-sync/daemon.log from /Users/kaorina/rails_projects/todo_app to //0500d9a6f383//app_sync
+Failed: The source file /Users/kaorina/rails_projects/todo_app/.docker-sync/daemon.log
+has been modified during synchronization.  Transfer aborted.
+UNISON 2.51.2 (OCAML 4.08.1) finished propagating changes at 18:17:49.18 on 02 May 2020
+Saving synchronizer state
+Synchronization incomplete at 18:17:49  (0 items transferred, 0 skipped, 1 failed)
+  failed: .docker-sync/daemon.log
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+UNISON 2.51.2 (OCAML 4.08.1) started propagating changes at 18:17:51.22 on 02 May 2020
+[BGN] Updating file .docker-sync/daemon.log from /Users/kaorina/rails_projects/todo_app to //0500d9a6f383//app_sync
+Failed: The source file /Users/kaorina/rails_projects/todo_app/.docker-sync/daemon.log
+has been modified during synchronization.  Transfer aborted.
+UNISON 2.51.2 (OCAML 4.08.1) finished propagating changes at 18:17:51.24 on 02 May 2020
+Saving synchronizer state
+Synchronization incomplete at 18:17:51  (0 items transferred, 0 skipped, 1 failed)
+  failed: .docker-sync/daemon.log
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+UNISON 2.51.2 (OCAML 4.08.1) started propagating changes at 18:17:53.29 on 02 May 2020
+[BGN] Updating file .docker-sync/daemon.log from /Users/kaorina/rails_projects/todo_app to //0500d9a6f383//app_sync
+Failed: The source file /Users/kaorina/rails_projects/todo_app/.docker-sync/daemon.log
+has been modified during synchronization.  Transfer aborted.
+UNISON 2.51.2 (OCAML 4.08.1) finished propagating changes at 18:17:53.30 on 02 May 2020
+Saving synchronizer state
+Synchronization incomplete at 18:17:53  (0 items transferred, 0 skipped, 1 failed)
+  failed: .docker-sync/daemon.log
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+UNISON 2.51.2 (OCAML 4.08.1) started propagating changes at 18:17:55.33 on 02 May 2020
+[BGN] Updating file .docker-sync/daemon.log from /Users/kaorina/rails_projects/todo_app to //0500d9a6f383//app_sync
+Failed: The source file /Users/kaorina/rails_projects/todo_app/.docker-sync/daemon.log
+has been modified during synchronization.  Transfer aborted.
+UNISON 2.51.2 (OCAML 4.08.1) finished propagating changes at 18:17:55.34 on 02 May 2020
+Saving synchronizer state
+Synchronization incomplete at 18:17:55  (0 items transferred, 0 skipped, 1 failed)
+  failed: .docker-sync/daemon.log
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Nothing to do: replicas have not changed since last sync.
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+UNISON 2.51.2 (OCAML 4.08.1) started propagating changes at 18:18:08.42 on 02 May 2020
+[BGN] Updating file .docker-sync/daemon.log from /Users/kaorina/rails_projects/todo_app to //0500d9a6f383//app_sync
+Failed: The source file /Users/kaorina/rails_projects/todo_app/.docker-sync/daemon.log
+has been modified during synchronization.  Transfer aborted.
+UNISON 2.51.2 (OCAML 4.08.1) finished propagating changes at 18:18:08.43 on 02 May 2020
+Saving synchronizer state
+Synchronization incomplete at 18:18:08  (0 items transferred, 0 skipped, 1 failed)
+  failed: .docker-sync/daemon.log
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+UNISON 2.51.2 (OCAML 4.08.1) started propagating changes at 18:18:10.48 on 02 May 2020
+[BGN] Updating file .docker-sync/daemon.log from /Users/kaorina/rails_projects/todo_app to //0500d9a6f383//app_sync
+Failed: The source file /Users/kaorina/rails_projects/todo_app/.docker-sync/daemon.log
+has been modified during synchronization.  Transfer aborted.
+UNISON 2.51.2 (OCAML 4.08.1) finished propagating changes at 18:18:10.50 on 02 May 2020
+Saving synchronizer state
+Synchronization incomplete at 18:18:10  (0 items transferred, 0 skipped, 1 failed)
+  failed: .docker-sync/daemon.log
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+UNISON 2.51.2 (OCAML 4.08.1) started propagating changes at 18:18:12.59 on 02 May 2020
+[BGN] Updating file .docker-sync/daemon.log from /Users/kaorina/rails_projects/todo_app to //0500d9a6f383//app_sync
+Failed: The source file /Users/kaorina/rails_projects/todo_app/.docker-sync/daemon.log
+has been modified during synchronization.  Transfer aborted.
+UNISON 2.51.2 (OCAML 4.08.1) finished propagating changes at 18:18:12.60 on 02 May 2020
+Saving synchronizer state
+Synchronization incomplete at 18:18:12  (0 items transferred, 0 skipped, 1 failed)
+  failed: .docker-sync/daemon.log
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Nothing to do: replicas have not changed since last sync.
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+UNISON 2.51.2 (OCAML 4.08.1) started propagating changes at 18:19:15.34 on 02 May 2020
+[BGN] Updating file .docker-sync/daemon.log from /Users/kaorina/rails_projects/todo_app to //0500d9a6f383//app_sync
+Failed: The source file /Users/kaorina/rails_projects/todo_app/.docker-sync/daemon.log
+has been modified during synchronization.  Transfer aborted.
+UNISON 2.51.2 (OCAML 4.08.1) finished propagating changes at 18:19:15.35 on 02 May 2020
+Saving synchronizer state
+Synchronization incomplete at 18:19:15  (0 items transferred, 0 skipped, 1 failed)
+  failed: .docker-sync/daemon.log
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Nothing to do: replicas have not changed since last sync.
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+UNISON 2.51.2 (OCAML 4.08.1) started propagating changes at 18:19:47.43 on 02 May 2020
+[BGN] Updating file .docker-sync/daemon.log from /Users/kaorina/rails_projects/todo_app to //0500d9a6f383//app_sync
+[BGN] Copying .idea from /Users/kaorina/rails_projects/todo_app to //0500d9a6f383//app_sync
+Failed: The source file /Users/kaorina/rails_projects/todo_app/.docker-sync/daemon.log
+has been modified during synchronization.  Transfer aborted.
+[END] Copying .idea
+UNISON 2.51.2 (OCAML 4.08.1) finished propagating changes at 18:19:47.49 on 02 May 2020
+Saving synchronizer state
+Synchronization incomplete at 18:19:47  (1 item transferred, 0 skipped, 1 failed)
+  failed: .docker-sync/daemon.log
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+UNISON 2.51.2 (OCAML 4.08.1) started propagating changes at 18:19:49.60 on 02 May 2020
+[BGN] Updating file .docker-sync/daemon.log from /Users/kaorina/rails_projects/todo_app to //0500d9a6f383//app_sync
+Failed: The source file /Users/kaorina/rails_projects/todo_app/.docker-sync/daemon.log
+has been modified during synchronization.  Transfer aborted.
+UNISON 2.51.2 (OCAML 4.08.1) finished propagating changes at 18:19:49.61 on 02 May 2020
+Saving synchronizer state
+Synchronization incomplete at 18:19:49  (0 items transferred, 0 skipped, 1 failed)
+  failed: .docker-sync/daemon.log
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Nothing to do: replicas have not changed since last sync.
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+UNISON 2.51.2 (OCAML 4.08.1) started propagating changes at 18:19:58.26 on 02 May 2020
+[BGN] Updating file .docker-sync/daemon.log from /Users/kaorina/rails_projects/todo_app to //0500d9a6f383//app_sync
+[BGN] Copying .idea/.generators from /Users/kaorina/rails_projects/todo_app to //0500d9a6f383//app_sync
+[BGN] Copying .idea/.rakeTasks from /Users/kaorina/rails_projects/todo_app to //0500d9a6f383//app_sync
+Failed: The source file /Users/kaorina/rails_projects/todo_app/.docker-sync/daemon.log
+has been modified during synchronization.  Transfer aborted.
+[END] Copying .idea/.generators
+[END] Copying .idea/.rakeTasks
+UNISON 2.51.2 (OCAML 4.08.1) finished propagating changes at 18:19:58.27 on 02 May 2020
+Saving synchronizer state
+Synchronization incomplete at 18:19:58  (2 items transferred, 0 skipped, 1 failed)
+  failed: .docker-sync/daemon.log
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Nothing to do: replicas have not changed since last sync.
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+UNISON 2.51.2 (OCAML 4.08.1) started propagating changes at 18:20:01.34 on 02 May 2020
+[BGN] Updating file .docker-sync/daemon.log from /Users/kaorina/rails_projects/todo_app to //0500d9a6f383//app_sync
+Failed: The source file /Users/kaorina/rails_projects/todo_app/.docker-sync/daemon.log
+has been modified during synchronization.  Transfer aborted.
+UNISON 2.51.2 (OCAML 4.08.1) finished propagating changes at 18:20:01.36 on 02 May 2020
+Saving synchronizer state
+Synchronization incomplete at 18:20:01  (0 items transferred, 0 skipped, 1 failed)
+  failed: .docker-sync/daemon.log
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Nothing to do: replicas have not changed since last sync.
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+UNISON 2.51.2 (OCAML 4.08.1) started propagating changes at 18:20:47.10 on 02 May 2020
+[BGN] Updating file .docker-sync/daemon.log from /Users/kaorina/rails_projects/todo_app to //0500d9a6f383//app_sync
+[BGN] Copying .idea/dictionaries from /Users/kaorina/rails_projects/todo_app to //0500d9a6f383//app_sync
+[BGN] Copying .idea/inspectionProfiles from /Users/kaorina/rails_projects/todo_app to //0500d9a6f383//app_sync
+[BGN] Copying .idea/misc.xml from /Users/kaorina/rails_projects/todo_app to //0500d9a6f383//app_sync
+[BGN] Copying .idea/modules.xml from /Users/kaorina/rails_projects/todo_app to //0500d9a6f383//app_sync
+[BGN] Copying .idea/todo_app.iml from /Users/kaorina/rails_projects/todo_app to //0500d9a6f383//app_sync
+[BGN] Copying .idea/vcs.xml from /Users/kaorina/rails_projects/todo_app to //0500d9a6f383//app_sync
+[BGN] Updating file .idea/workspace.xml from /Users/kaorina/rails_projects/todo_app to //0500d9a6f383//app_sync
+Failed: The source file /Users/kaorina/rails_projects/todo_app/.docker-sync/daemon.log
+has been modified during synchronization.  Transfer aborted.
+[END] Copying .idea/misc.xml
+[END] Copying .idea/modules.xml
+[END] Copying .idea/todo_app.iml
+[END] Copying .idea/vcs.xml
+[END] Updating file .idea/workspace.xml
+[END] Copying .idea/dictionaries
+[END] Copying .idea/inspectionProfiles
+UNISON 2.51.2 (OCAML 4.08.1) finished propagating changes at 18:20:47.13 on 02 May 2020
+Saving synchronizer state
+Synchronization incomplete at 18:20:47  (7 items transferred, 0 skipped, 1 failed)
+  failed: .docker-sync/daemon.log
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+UNISON 2.51.2 (OCAML 4.08.1) started propagating changes at 18:20:49.17 on 02 May 2020
+[BGN] Updating file .docker-sync/daemon.log from /Users/kaorina/rails_projects/todo_app to //0500d9a6f383//app_sync
+Failed: The source file /Users/kaorina/rails_projects/todo_app/.docker-sync/daemon.log
+has been modified during synchronization.  Transfer aborted.
+UNISON 2.51.2 (OCAML 4.08.1) finished propagating changes at 18:20:49.19 on 02 May 2020
+Saving synchronizer state
+Synchronization incomplete at 18:20:49  (0 items transferred, 0 skipped, 1 failed)
+  failed: .docker-sync/daemon.log
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+UNISON 2.51.2 (OCAML 4.08.1) started propagating changes at 18:20:51.23 on 02 May 2020
+[BGN] Updating file .docker-sync/daemon.log from /Users/kaorina/rails_projects/todo_app to //0500d9a6f383//app_sync
+Failed: The source file /Users/kaorina/rails_projects/todo_app/.docker-sync/daemon.log
+has been modified during synchronization.  Transfer aborted.
+UNISON 2.51.2 (OCAML 4.08.1) finished propagating changes at 18:20:51.24 on 02 May 2020
+Saving synchronizer state
+Synchronization incomplete at 18:20:51  (0 items transferred, 0 skipped, 1 failed)
+  failed: .docker-sync/daemon.log
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Nothing to do: replicas have not changed since last sync.
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+UNISON 2.51.2 (OCAML 4.08.1) started propagating changes at 18:21:55.34 on 02 May 2020
+[BGN] Updating file .docker-sync/daemon.log from /Users/kaorina/rails_projects/todo_app to //0500d9a6f383//app_sync
+Failed: The source file /Users/kaorina/rails_projects/todo_app/.docker-sync/daemon.log
+has been modified during synchronization.  Transfer aborted.
+UNISON 2.51.2 (OCAML 4.08.1) finished propagating changes at 18:21:55.35 on 02 May 2020
+Saving synchronizer state
+Synchronization incomplete at 18:21:55  (0 items transferred, 0 skipped, 1 failed)
+  failed: .docker-sync/daemon.log
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Nothing to do: replicas have not changed since last sync.
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+UNISON 2.51.2 (OCAML 4.08.1) started propagating changes at 18:22:52.97 on 02 May 2020
+[BGN] Updating file .docker-sync/daemon.log from /Users/kaorina/rails_projects/todo_app to //0500d9a6f383//app_sync
+Failed: The source file /Users/kaorina/rails_projects/todo_app/.docker-sync/daemon.log
+has been modified during synchronization.  Transfer aborted.
+UNISON 2.51.2 (OCAML 4.08.1) finished propagating changes at 18:22:52.98 on 02 May 2020
+Saving synchronizer state
+Synchronization incomplete at 18:22:53  (0 items transferred, 0 skipped, 1 failed)
+  failed: .docker-sync/daemon.log
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+UNISON 2.51.2 (OCAML 4.08.1) started propagating changes at 18:22:55.03 on 02 May 2020
+[BGN] Updating file .docker-sync/daemon.log from /Users/kaorina/rails_projects/todo_app to //0500d9a6f383//app_sync
+Failed: The source file /Users/kaorina/rails_projects/todo_app/.docker-sync/daemon.log
+has been modified during synchronization.  Transfer aborted.
+UNISON 2.51.2 (OCAML 4.08.1) finished propagating changes at 18:22:55.04 on 02 May 2020
+Saving synchronizer state
+Synchronization incomplete at 18:22:55  (0 items transferred, 0 skipped, 1 failed)
+  failed: .docker-sync/daemon.log
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Nothing to do: replicas have not changed since last sync.
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+UNISON 2.51.2 (OCAML 4.08.1) started propagating changes at 18:24:53.83 on 02 May 2020
+[BGN] Updating file .docker-sync/daemon.log from /Users/kaorina/rails_projects/todo_app to //0500d9a6f383//app_sync
+[BGN] Updating file .idea/workspace.xml from /Users/kaorina/rails_projects/todo_app to //0500d9a6f383//app_sync
+Failed: The source file /Users/kaorina/rails_projects/todo_app/.docker-sync/daemon.log
+has been modified during synchronization.  Transfer aborted.
+[END] Updating file .idea/workspace.xml
+UNISON 2.51.2 (OCAML 4.08.1) finished propagating changes at 18:24:53.85 on 02 May 2020
+Saving synchronizer state
+Synchronization incomplete at 18:24:53  (1 item transferred, 0 skipped, 1 failed)
+  failed: .docker-sync/daemon.log
