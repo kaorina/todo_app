@@ -1,0 +1,17 @@
+= form_with model: task, local: true do |form|
+  - if task.errors.any?
+    #error_explanation
+      h2
+        = pluralize(task.errors.count, "error")
+        |  prohibited this task from being saved:
+      ul
+        - task.errors.full_messages.each do |message|
+          li
+            = message
+  .form-group
+    = form.label :name
+    = form.text_field :name, class: 'form-control', id: 'task-name'
+  .form-group
+    = form.label :description
+    = form.text_area :description, rows: 5, class: 'form-control', id: 'task-description'
+  = form.submit nil, class:'btn btn-primary'

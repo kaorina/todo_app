@@ -15,6 +15,7 @@ services:
     volumes:
       - .:/todo_app
       - todo_syncs:/todo/:nocopy
+      - bundle:/bundle
     ports:
       - "3000:3000"
     depends_on:
@@ -27,3 +28,5 @@ volumes:
     driver: local
   todo_syncs:
     external: true
+  bundle:
+    driver: local

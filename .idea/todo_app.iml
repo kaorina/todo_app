@@ -28,6 +28,8 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" scope="PROVIDED" name="bundler (v1.16.1, rbenv: 2.1.9) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="hpricot (v0.8.6, rbenv: 2.1.9) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="html2slim (v0.2.0, rbenv: 2.1.9) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="thread_safe (v0.3.6, rbenv: 2.1.9) [gem]" level="application" />
   </component>
   <component name="RModuleSettingsStorage">
