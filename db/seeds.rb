@@ -3,5 +3,12 @@
 #
 # Examples:
 #
-#   movies = Movie.create([{ name: 'Star Wars' }, { name: 'Lord of the Rings' }])
-#   Character.create(name: 'Luke', movie: movies.first)
+User.create([
+  { name: 'Taro', address: 'Tokyo', age: '10' },
+  { name: 'Jiro', address: 'London', age: '12' }
+])
+
+Task.create([
+  { name: 'Buy milk', description: 'hogehoge' },
+  { name: 'Buy butter', description: 'hogehogebutter' }
+])

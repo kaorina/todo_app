@@ -1,11 +1,14 @@
 class TasksController < ApplicationController
   before_action :set_task, only: [:show, :edit, :update, :destroy]
+  skip_before_action :verify_authenticity_token
 
   def index
     @tasks = Task.all
+    render json: @tasks
   end
 
   def show
+    render json: @task
   end
 
   def new
@@ -17,25 +20,24 @@ class TasksController < ApplicationController
 
   def create
     task = Task.new(task_params)
-
-    if task.save
-      redirect_to tasks_url, notice: "タスク「#{task.name}」を作成しました"
-    else
-      render :new
-    end
+    task.save!
+    #redirect_to tasks_url, notice: "タスク「#{task.name}」を作成しました"
+    render json: task
   end
 
   def update
-    if @task.update(task_params)
-      redirect_to tasks_url, notice: "タスク「#{@task.name}」を更新しました"
-    else
-      render :edit
-    end
+    @task.update!(task_params)
+    #redirect_to tasks_url, notice: "タスク「#{@task.name}」を更新しました"
+    render json: @task
   end
 
   def destroy
-    @task.destroy
-    redirect_to tasks_url, notice: "タスク「#{@task.name}」を削除しました"
+    if @task.destroy
+      head :no_content, status: :ok
+      #redirect_to tasks_url, notice: "タスク「#{@task.name}」を削除しました"
+    else
+      render json: @task.errors, status: :unprocessable_entity
+    end
   end
 
   private
