@@ -1,10 +1,9 @@
-class TasksController < ApplicationController
+class Api::V1::TasksController < ApplicationController
   before_action :set_task, only: [:show, :edit, :update, :destroy]
   skip_before_action :verify_authenticity_token
 
   def index
-    #@tasks = Task.all
-    #render component: 'TodoList', props: { todos: @tasks}, tag: 'span', class: 'todo'
+    render json: Task.all
     # render json: @tasks
   end
 
@@ -20,23 +19,19 @@ class TasksController < ApplicationController
   end
 
   def create
-    binding.pry
-    task = Task.new(task_params)
-    task.save!
-    #redirect_to tasks_url, notice: "タスク「#{task.name}」を作成しました"
+    task = Task.create(task_params)
     render json: task
   end
 
   def update
     @task.update!(task_params)
-    #redirect_to tasks_url, notice: "タスク「#{@task.name}」を更新しました"
     render json: @task
   end
 
   def destroy
+    binding.pry
     if @task.destroy
       head :no_content, status: :ok
-      #redirect_to tasks_url, notice: "タスク「#{@task.name}」を削除しました"
     else
       render json: @task.errors, status: :unprocessable_entity
     end
