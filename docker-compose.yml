@@ -17,7 +17,8 @@ services:
       - todo_syncs:/todo/:nocopy
       - bundle:/bundle
     ports:
-      - "3000:3000"
+      #- "3000:3000"
+      - "${WEB_PORT:-3000}:3000" #.envを見に行く
     depends_on:
       - db
     stdin_open: true
