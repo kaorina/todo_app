@@ -1,0 +1,8 @@
+h1 Pokemons#new
+div
+  div
+    = @response["id"]
+    = @response["name"]
+    = image_tag(@response["sprites"]["front_default"], size: "200")
+
+
