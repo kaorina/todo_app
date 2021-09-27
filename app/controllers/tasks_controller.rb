@@ -20,7 +20,6 @@ class TasksController < ApplicationController
   end
 
   def create
-    binding.pry
     task = Task.new(task_params)
     task.save!
     #redirect_to tasks_url, notice: "タスク「#{task.name}」を作成しました"

@@ -28,7 +28,7 @@ export default class TodoList extends React.Component {
   }
 
   handleDelete(id){
-    fetch('http://localhost:3000/api/v1/tasks/' + id,
+    fetch('http://localhost:3001/api/v1/tasks/' + id,
    {
           method: 'DELETE',
           headers: {
@@ -68,7 +68,7 @@ export default class TodoList extends React.Component {
       }
     });
 
-    fetch('http://localhost:3000/api/v1/tasks/', {
+    fetch('http://localhost:3001/api/v1/tasks/', {
       method: 'POST',
       headers: {
         'Content-Type': 'application/json'

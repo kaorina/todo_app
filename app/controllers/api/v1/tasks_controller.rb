@@ -29,7 +29,6 @@ class Api::V1::TasksController < ApplicationController
   end
 
   def destroy
-    binding.pry
     if @task.destroy
       head :no_content, status: :ok
     else
