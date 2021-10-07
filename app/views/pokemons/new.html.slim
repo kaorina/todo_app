@@ -1,8 +1,17 @@
-h1 Pokemons#new
-div
-  div
-    = @response["id"]
-    = @response["name"]
-    = image_tag(@response["sprites"]["front_default"], size: "200")
+div style="margin:30px;"
+  h1 Pokemon
 
+  div
+    = render "search"
+
+  div
+    - if @response.present?
+      div ID:
+      div = @response["id"]
+      div Name:
+      div = @response["name"]
+      div = image_tag(@response["sprites"]["front_default"], size: "200")
+
+    - else
+      p style="margin-top: 10px;" すうじか、ポケモンのなまえのえいごをいれてけんさくしてみてね。
 
