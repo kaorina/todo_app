@@ -11,4 +11,12 @@ class PokemonsController < ApplicationController
       redirect_to new_pokemon_path, notice: "#{raw_response.status}エラー!"
     end
   end
+
+  def json
+    require "json"
+
+    @pokemons = File.open("#{Rails.public_path}/json/pokedex_test.json") do |j|
+      JSON.load(j)
+    end
+  end
 end

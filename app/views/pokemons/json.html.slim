@@ -1,0 +1,12 @@
+- @pokemons.each do |pokemon|
+  div style="margin: 10px;"
+    div
+      | ID:
+      = pokemon["id"]
+    div
+      | Name:
+      = pokemon["name"]["japanese"]
+    div
+      | Type:
+      = pokemon["type"].join(",")
+
